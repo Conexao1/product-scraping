@@ -23,7 +23,7 @@ The project utilizes **Selenium** to automate web browsing tasks and the **Panda
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Conexao1/product-scraping.git
-   cd kabum-scraping
+   cd product-scraping
 2. **Install the dependencies**:
    ```bash
    pip install -r requirements.txt
